@@ -1,0 +1,7 @@
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181121SarampolOtoKiralama\20181121SarampolOtoKiralama\bin\Debug\20181121SarampolOtoKiralama.exe.config
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181121SarampolOtoKiralama\20181121SarampolOtoKiralama\bin\Debug\20181121SarampolOtoKiralama.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181121SarampolOtoKiralama\20181121SarampolOtoKiralama\bin\Debug\20181121SarampolOtoKiralama.pdb
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181121SarampolOtoKiralama\20181121SarampolOtoKiralama\obj\Debug\20181121SarampolOtoKiralama.csprojAssemblyReference.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181121SarampolOtoKiralama\20181121SarampolOtoKiralama\obj\Debug\20181121SarampolOtoKiralama.csproj.CoreCompileInputs.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181121SarampolOtoKiralama\20181121SarampolOtoKiralama\obj\Debug\20181121SarampolOtoKiralama.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181121SarampolOtoKiralama\20181121SarampolOtoKiralama\obj\Debug\20181121SarampolOtoKiralama.pdb
